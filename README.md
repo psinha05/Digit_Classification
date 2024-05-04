@@ -1,1 +1,1 @@
-# Digit_Classification
+# Digit_Classification : To predict the digit classification using the deep learning in Python and CGAN and Neural Network 
